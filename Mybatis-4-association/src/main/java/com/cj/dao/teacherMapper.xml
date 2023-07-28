@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cj.dao.teacherMapper">
+
+<!--    <select id="getTeachers" resultMap="TeacherMap">-->
+<!--        select * from teacher;-->
+<!--    </select>-->
+<!--    <resultMap id="TeacherMap" type="com.cj.pojo.teacher">-->
+<!--        <result property="id" column="id"/>-->
+<!--        <collection property="students" column="id" ofType="com.cj.pojo.student" javaType="ArrayList" select="getStudent">-->
+<!--        </collection>-->
+<!--    </resultMap>-->
+<!--    <select id="getStudent" resultType="com.cj.pojo.student">-->
+<!--        select * from student where tid=#{id}-->
+<!--    </select>-->
+
+    <select id="getTeachers" resultMap="TeacherMap">
+        select t.name name,t.id id,s.name sname,s.id sid from teacher as t,student as s where t.id=s.tid
+    </select>
+    <resultMap id="TeacherMap" type="com.cj.pojo.teacher">
+        <result property="id" column="id"/>
+        <collection property="students" column="id" javaType="ArrayList" ofType="com.cj.pojo.student">
+            <result column="sid" property="id"/>
+            <result column="sname" property="name"/>
+        </collection>
+    </resultMap>
+</mapper>

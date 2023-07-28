@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cj.dao.studentMapper">
+
+    <!--=========================select结果=============================-->
+<!--    <resultMap id="studentMap" type="com.cj.com.pojo.student">-->
+<!--        <result property="id" column="id"/>-->
+<!--        <result property="name" column="name"/>-->
+<!--        <association javaType="com.cj.com.pojo.teacher" column="tid" property="teacher">-->
+<!--            <result property="name" column="teacher_name"/>-->
+<!--            <result property="id" column="teacher_id"/>-->
+<!--        </association>-->
+<!--    </resultMap>-->
+<!--    <select id="getStudent" resultMap="studentMap">-->
+<!--        SELECT student.id id,student.name name ,teacher.name  teacher_name,teacher.id teacher_id FROM student,teacher where student.tid=teacher.id-->
+<!--    </select>-->
+
+<!--=========================select子查询=============================-->
+    <select id="getStudent" resultMap="studentMap">
+            select * from student;
+    </select>
+    <resultMap id="studentMap" type="com.cj.pojo.student">
+        <association property="teacher" javaType="com.cj.pojo.student" column="tid" select="getStudent2"/>
+    </resultMap>
+    <select id="getStudent2" resultType="com.cj.pojo.teacher">
+        select * from teacher where id=#{tid};
+    </select>
+
+</mapper>

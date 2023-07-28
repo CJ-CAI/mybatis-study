@@ -1,0 +1,225 @@
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 785570251.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==> Parameters: 
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]<==      Total: 4
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 785570251 to pool.
+[INFO][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 785570251.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==> Parameters: 
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]<==      Total: 4
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 785570251 to pool.
+[INFO][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 785570251.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==> Parameters: 
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]<==      Total: 4
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 785570251 to pool.
+[INFO][22-09-19][dsacom.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][dsacom.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][dsaorg.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][dsaorg.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][dsaorg.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][dsaorg.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][dsaorg.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][dsaorg.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][dsaorg.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][dsaorg.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 785570251.
+[DEBUG][22-09-19][dsaorg.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][dsacom.cj.dao.UserMapper.selectUser]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-19][dsacom.cj.dao.UserMapper.selectUser]==> Parameters: 
+[DEBUG][22-09-19][dsacom.cj.dao.UserMapper.selectUser]<==      Total: 4
+[DEBUG][22-09-19][dsaorg.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][dsaorg.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19][dsaorg.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 785570251 to pool.
+[INFO][22-09-19]查询所有用户
+[DEBUG][22-09-19]查询所有用户
+[DEBUG][22-09-19]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19]Opening JDBC Connection
+[DEBUG][22-09-19]Created connection 785570251.
+[DEBUG][22-09-19]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-19]==> Parameters: 
+[DEBUG][22-09-19]<==      Total: 4
+[DEBUG][22-09-19]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2ed2d9cb]
+[DEBUG][22-09-19]Returned connection 785570251 to pool.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1497018177.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==>  Preparing: select * from nba2k limit ?,?;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==> Parameters: 2(Integer), 2(Integer)
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]<==      Total: 2
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1497018177 to pool.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1497018177.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==>  Preparing: select * from nba2k limit ?,?;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==> Parameters: 2(Integer), 2(Integer)
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]<==      Total: 2
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1497018177 to pool.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1497018177.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==>  Preparing: select * from nba2k limit ?,?;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==> Parameters: -2(Integer), 2(Integer)
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1497018177.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==>  Preparing: select * from nba2k limit ?,?;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==> Parameters: 0(Integer), 2(Integer)
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]<==      Total: 2
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1497018177 to pool.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1497018177.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==>  Preparing: select * from nba2k limit ?,?;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]==> Parameters: 0(Integer), 4(Integer)
+[DEBUG][22-09-19][com.cj.dao.UserMapper.select_page_user]<==      Total: 4
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@593aaf41]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1497018177 to pool.
+[INFO][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[INFO][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1567705314.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@5d7148e2]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==> Parameters: 
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@5d7148e2]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@5d7148e2]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1567705314 to pool.
+[INFO][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 224100622.
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@d5b810e]
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]==> Parameters: 
+[DEBUG][22-09-19][com.cj.dao.UserMapper.selectUser]<==      Total: 4
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@d5b810e]
+[DEBUG][22-09-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@d5b810e]
+[DEBUG][22-09-19][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 224100622 to pool.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[INFO][22-09-22][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-22][com.cj.dao.UserMapperTest]查询所有用户
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 875313400.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@342c38f8]
+[DEBUG][22-09-22][com.cj.dao.UserMapper.selectUser]==>  Preparing: select * from nba2k;
+[DEBUG][22-09-22][com.cj.dao.UserMapper.selectUser]==> Parameters: 
+[DEBUG][22-09-22][com.cj.dao.UserMapper.selectUser]<==      Total: 6
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@342c38f8]
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@342c38f8]
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 875313400 to pool.

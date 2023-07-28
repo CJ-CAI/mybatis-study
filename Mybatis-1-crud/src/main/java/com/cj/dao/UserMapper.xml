@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cj.dao.UserMapper">
+    <resultMap id="User_mapper" type="com.cj.pojo.User">
+        <id column="id" property="id" />
+        <id column="alies" property="name" />
+        <id column="level" property="age" />
+        <id column="2k" property="k_value"/>
+    </resultMap>
+    <select id="selectUser" resultType="user">
+        select * from nba2k;
+    </select>
+    
+    <select id="select_page_user" parameterType="map" resultType="user">
+        select * from nba2k limit #{startIndex},#{pageIndex};
+    </select>
+    <select id="selectUser_name" resultMap="User_mapper">
+        select * from nba2k where alies=#{name};
+    </select>
+
+    <insert id="add_user" >
+        insert into nba2k (id,name,age,2k_value) values (#{id},#{name},#{age},#{k_value})
+    </insert>
+
+    <delete id="delete_user">
+        delete from nba2k where name=#{name}
+    </delete>
+
+    <update id="update_user">
+        update nba2k set name=#{name},2k_value=#{k_value},age=#{age} where id=#{id}
+    </update>
+
+</mapper>

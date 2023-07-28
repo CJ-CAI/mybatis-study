@@ -1,0 +1,7 @@
+# Project exclude paths
+/Mybatis-1-crud/target/
+/Mybatis-2-annotation/target/
+/Mybatis-3-association/target/
+/Mybatis-4-association/target/
+/Mybatis-5-dynamic/target/
+/Mybatis-6-Cache/target/

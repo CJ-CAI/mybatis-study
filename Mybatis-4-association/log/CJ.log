@@ -1,0 +1,71 @@
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1947896119.
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==>  Preparing: select t.name name,t.id id,s.name sname,s.id sid from teacher as t,student as s where t.id=s.tid
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==> Parameters: 
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]<==      Total: 6
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 150138649.
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==>  Preparing: select t.name name,t.id id,s.name sname,s.id sid from teacher as t,student as s where t.id=s.tid
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==> Parameters: 
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]<==      Total: 6
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 150138649.
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==>  Preparing: select t.name name,t.id id,s.name sname,s.id sid from teacher as t,student as s where t.id=s.tid
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==> Parameters: 
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]<==      Total: 6
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 150138649.
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==>  Preparing: select t.name name,t.id id,s.name sname,s.id sid from teacher as t,student as s where t.id=s.tid
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==> Parameters: 
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]<==      Total: 6
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 150138649.
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==>  Preparing: select t.name name,t.id id,s.name sname,s.id sid from teacher as t,student as s where t.id=s.tid
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==> Parameters: 
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]<==      Total: 6
+[DEBUG][22-09-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][22-09-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][22-09-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1333041165.
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==>  Preparing: select t.name name,t.id id,s.name sname,s.id sid from teacher as t,student as s where t.id=s.tid
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]==> Parameters: 
+[DEBUG][22-09-22][com.cj.dao.teacherMapper.getTeachers]<==      Total: 6
